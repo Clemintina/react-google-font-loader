@@ -12,8 +12,8 @@
     "prepublishOnly": "yarn run build"
   },
   "peerDependencies": {
-    "react": "^16.6.3",
-    "react-dom": "^16.6.3"
+    "react": "^18.2.0",
+		"react-dom": "^18.2.0"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
